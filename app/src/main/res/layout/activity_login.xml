@@ -30,7 +30,6 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
 
-        android:text="hellooooooo"
         android:textColor="@color/red"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -64,7 +63,6 @@
         android:layout_marginTop="8dp"
 
 
-        android:text="hellooooooo"
         android:textColor="@color/red"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
